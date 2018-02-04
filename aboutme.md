@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Postdoctoral Fellow, University of Waterloo
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am currently working with [Dr. Ming Li](https://cs.uwaterloo.ca/~mli/), and collaborate with [RSVP Technologies Inc.](http://rsvp.ai/#/index).
+- My research interests in the general area of machine learning, particularly in **deep learning** recently. 
+My current research topic is about **natural language generation/understanding**. 
+I am also interested in **image processing and retrieval**, and **computer vision**.
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I received my Ph.D. from University of Chinese Academy of Sciences (UCAS) in 2016, supervised by [Dr. Yongdong Zhang](http://mcg.ict.ac.cn/people/DoNotDel-daifeng/zhyd.htm) and [Dr. Tao Mei](https://www.linkedin.com/in/taomei/).
+- I received my M.S. and B.S. from Shandong Normal University in 2012 and 2010 respectively.
