@@ -55,7 +55,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -71,7 +71,7 @@ author:
 social-network-links:
   rss: true
   email: "xiaopyyy@outlook.com"
-  facebook: Xiaopeng Yang
+  facebook: xiaopeng.yang.7
   github: xiaopyyy
   twitter: xiaopyyy
 #  reddit: yourname
