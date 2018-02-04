@@ -9,7 +9,7 @@ subtitle: Postdoctoral Fellow, University of Waterloo
 My current research topic is about **natural language generation/understanding**. 
 I am also interested in **image processing and retrieval**, and **computer vision**.
 
-### my history
+### My history
 
-- I received my Ph.D. from University of Chinese Academy of Sciences (UCAS) in 2016, supervised by [Dr. Yongdong Zhang](http://mcg.ict.ac.cn/people/DoNotDel-daifeng/zhyd.htm) and [Dr. Tao Mei](https://www.linkedin.com/in/taomei/).
-- I received my M.S. and B.S. from Shandong Normal University in 2012 and 2010 respectively.
+- I received the Ph.D. degree from University of Chinese Academy of Sciences (UCAS) in 2016, supervised by [Dr. Yongdong Zhang](http://mcg.ict.ac.cn/people/DoNotDel-daifeng/zhyd.htm) and [Dr. Tao Mei](https://www.linkedin.com/in/taomei/).
+- I received the M.S. degree and the B.S. degree from Shandong Normal University in 2012 and 2010 respectively.
