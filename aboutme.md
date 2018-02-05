@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow, University of Waterloo
 
 - I am currently working with [Dr. Ming Li](https://cs.uwaterloo.ca/~mli/), and collaborate with [RSVP Technologies Inc.](http://rsvp.ai/#/index).
 - My research interests are in the general area of machine learning, particularly in **deep learning** recently. 
-My current research topic is about **natural language generation/understanding**. 
+My current research topic is about **natural language generation and understanding**. 
 I am also interested in **image processing and retrieval**, and **computer vision**.
 
 ### My history
