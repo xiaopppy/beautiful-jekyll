@@ -5,7 +5,7 @@ subtitle: 杨晓鹏
 ---
 View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang180204.pdf)
 
-##Education
+## Education
 - \[2012-2016\] Ph.D., University of Chinese Academy of Sciences, Beijing, China
   - Major: Computer Application Technology 
   - Research domain: Multimedia Content Analysis, Multimedia Information Retrieval
@@ -14,13 +14,13 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang180204.pdf)
 - \[2006-2010\] B.S., Shandong Normal University, Jinan, China
   - Major: Computer Science and Technology 
   
-##Experience
+## Experience
 - \[2016.10 - current\] Postdoctoral Fellow, University of Waterloo, Canada
 - \[2014.09 - 2015.02\] Research Intern, National Institute of Informatics, Tokyo, Japan
 - \[2014.02 — 2014.07\] Research Intern, Microsoft Research Asia, Beijing, China
 - \[2013.02 - 2013.05\] Research Intern, Microsoft Research Asia, Beijing, China
 
-##Publications
+## Publications
 - **Xiaopeng Yang**, Xiaowen Lin, Shunda Suo, and Ming Li. Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders. arXiv preprint arXiv:1711.07632, 2017.
 - **Xiaopeng Yang**, Tao Mei, Yongdong Zhang, Jie Liu, and Shin’ichi Satoh. Web Image Search Re-ranking with Click-based Similarity and Typicality. IEEE Transactions on Image Processing, vol. 25, no. 10, pp. 4617-4630, Oct. 2016. 
 - Yongdong Zhang, **Xiaopeng Yang**, and Tao Mei. Image Search Reranking with Query-dependent Click-based Relevance Feedback. IEEE Transactions on Image Processing, vol. 23, no. 10, pp. 4448–4459, Oct. 2014.
@@ -29,11 +29,11 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang180204.pdf)
 - **Xiaopeng Yang**, Yongdong Zhang, Ting Yao, Chong-Wah Ngo, and Tao Mei. Click-boosting Multi-modality Graph-based Reranking for Image Search. Multimedia Systems, vol. 21, no. 2, pp. 217-227, 2015.
 - 5 papers were published during masters, including 3 first-author papers (refereed).
 
-##Awards & Honors
+## Awards & Honors
 - Outstanding Graduate of Beijing, China (2016)
 - **Google Anita Borg Memorial Scholarship** (2015)
 - Stars of Tomorrow of **Microsoft Research Asia**, 2 years (2013, 2014)
-- Chinese Government Scholarship for Ph.D. Candidates (2014)
+- **Chinese Government Scholarship** for Ph.D. Candidates (2014)
 - UCAS Excellent Student Pacesetter (2014)
 - UCAS Excellent Student Leader, 2 years (2013, 2014)
 - Excellent Bachelor Thesis of Shandong Province, China (2010)
