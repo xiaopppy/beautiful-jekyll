@@ -17,7 +17,7 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang180204.pdf)
 ## Experience
 - \[2016.10 - current\] Postdoctoral Fellow, University of Waterloo, Canada
 - \[2014.09 - 2015.02\] Research Intern, National Institute of Informatics, Tokyo, Japan
-- \[2014.02 — 2014.07\] Research Intern, Microsoft Research Asia, Beijing, China
+- \[2014.02 - 2014.07\] Research Intern, Microsoft Research Asia, Beijing, China
 - \[2013.02 - 2013.05\] Research Intern, Microsoft Research Asia, Beijing, China
 
 ## Publications
