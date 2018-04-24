@@ -3,7 +3,7 @@ layout: page
 title: Xiaopeng Yang 
 subtitle: 杨晓鹏
 ---
-View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang180204.pdf)
+View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang.pdf)
 
 ## Education
 - \[2012-2016\] Ph.D., University of Chinese Academy of Sciences, Beijing, China
