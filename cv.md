@@ -18,8 +18,8 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang.pdf)
 - \[2016.10 - current\] Postdoctoral Fellow, University of Waterloo, Canada
   - Research domain: Natural Language Processing, Deep Learning, Natural Language Generation and Understanding.
 - \[2014.09 - 2015.02\] Research Intern, National Institute of Informatics, Tokyo, Japan
-- \[2014.02 - 2014.07\] Research Intern, Microsoft Research Asia, Beijing, China
-- \[2013.02 - 2013.05\] Research Intern, Microsoft Research Asia, Beijing, China
+- \[2014.02 - 2014.07\] Research Intern, Microsoft Research, Beijing, China
+- \[2013.02 - 2013.05\] Research Intern, Microsoft Research, Beijing, China
 
 ## Publications
 - **Xiaopeng Yang**, Xiaowen Lin, Shunda Suo, and Ming Li. Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders. arXiv preprint arXiv:1711.07632, 2017. **\[Accepted by IJCAI-ECAI-2018\]**
@@ -28,7 +28,10 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang.pdf)
 - **Xiaopeng Yang**, Tao Mei, and Yongdong Zhang. Rescue Tail Queries: Learning to Image Search Re-rank via Click-wise Multimodal Fusion. In Proceedings of the 22nd ACM International Conference on Multimedia, 2014, pp. 537-546. **\[Full paper, 19.2% acceptance rate\]**
 - **Xiaopeng Yang**, Yongdong Zhang, Ting Yao, Zheng-Jun Zha, and Chong-Wah Ngo. Click-boosting Random Walk for Image Search Reranking. In Proceedings of the 5th International Conference on Internet Multimedia Computing and Service, 2013, pp. 1-6. **\[Best paper award\]**
 - **Xiaopeng Yang**, Yongdong Zhang, Ting Yao, Chong-Wah Ngo, and Tao Mei. Click-boosting Multi-modality Graph-based Reranking for Image Search. Multimedia Systems, vol. 21, no. 2, pp. 217-227, 2015.
-- 5 papers were published during masters, including 3 first-author papers (refereed).
+- **Xiaopeng Yang**, Hong Liu, Yanhui Ding, and Hanchao Yu. An Improved Cellular Genetic Algorithm with Evolutionary Rules for 3D Animation Modeling Design. In Proceedings of the 12th International Conference on CAD/Graphics, 2011, pp. 341-348.
+- **Xiaopeng Yang**, Hong Liu, and Hanchao Yu. Cellular Genetic Algorithm for Supporting Creative Design of 3D Animation Modelings. In Proceedings of the Third Pacific-Asia Conference on Circuits, Communications and System (PACCS), 2011, pp. 1-4.
+- Hanchao Yu, Hong Liu, and **Xiaopeng Yang**. Evolutionary Computing Method in 3D Animation Modeling Cooperative Design. In Proceedings of the 15th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2011, pp. 296-303.
+
 
 ## Awards & Honors
 - Outstanding Graduate of Beijing, China (2016)
