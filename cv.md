@@ -22,7 +22,7 @@ View my CV [PDF](https://xiaopyyy.github.io/file/CV_XiaopengYang.pdf)
 - \[2013.02 - 2013.05\] Research Intern, Microsoft Research, Beijing, China
 
 ## Publications
-- **Xiaopeng Yang**, Xiaowen Lin, Shunda Suo, and Ming Li. Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders. arXiv preprint arXiv:1711.07632, 2017. **\[Accepted by IJCAI-ECAI-2018\]**
+- **Xiaopeng Yang**, Xiaowen Lin, Shunda Suo, and Ming Li. Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders. arXiv preprint arXiv:1711.07632, 2017. **\[Accepted by IJCAI-ECAI-2018, 20.5% acceptance rate\]**
 - **Xiaopeng Yang**, Tao Mei, Yongdong Zhang, Jie Liu, and Shin’ichi Satoh. Web Image Search Re-ranking with Click-based Similarity and Typicality. IEEE Transactions on Image Processing, vol. 25, no. 10, pp. 4617-4630, Oct. 2016. 
 - Yongdong Zhang, **Xiaopeng Yang**, and Tao Mei. Image Search Reranking with Query-dependent Click-based Relevance Feedback. IEEE Transactions on Image Processing, vol. 23, no. 10, pp. 4448–4459, Oct. 2014.
 - **Xiaopeng Yang**, Tao Mei, and Yongdong Zhang. Rescue Tail Queries: Learning to Image Search Re-rank via Click-wise Multimodal Fusion. In Proceedings of the 22nd ACM International Conference on Multimedia, 2014, pp. 537-546. **\[Full paper, 19.2% acceptance rate\]**
